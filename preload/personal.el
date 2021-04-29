@@ -14,3 +14,6 @@
 
 ;; Disable scroll-bar-mode
 (scroll-bar-mode -1)
+
+;; Enable deferred compile
+(setq comp-deferred-compilation t)
