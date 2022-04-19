@@ -17,3 +17,6 @@
 
 ;; Enable deferred compile
 (setq comp-deferred-compilation t)
+
+;; Set font size
+(set-face-attribute 'default (selected-frame) :height 150)
